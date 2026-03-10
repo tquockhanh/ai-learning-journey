@@ -1,3 +1,3 @@
 # Algorithms
 
-This folder contains algorithm practice and notes.
+This folder contains my algorithm practice and notes.
